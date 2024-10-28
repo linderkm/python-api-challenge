@@ -1,6 +1,6 @@
 # python-api-challenge
 
--
+-----------------------------------------------------------------------
 WeatherPy
 
 (1)https://openweathermap.org/current#geo
@@ -11,4 +11,6 @@ WeatherPy
 
 (4) Module 4; Class 2; Activity 1 ('loc_iloc_solution.ipynb')
 
--
+-----------------------------------------------------------------------
+
+VacationPy
