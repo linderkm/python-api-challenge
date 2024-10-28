@@ -3,7 +3,7 @@
 -----------------------------------------------------------------------
 WeatherPy
 
-(1)https://openweathermap.org/current#geo
+(1) https://openweathermap.org/current#geo
 
 (2) Module 6; LEsson 3; ACtivity 3 'geoapify_drills_solution.ipynb'
 
@@ -14,3 +14,5 @@ WeatherPy
 -----------------------------------------------------------------------
 
 VacationPy
+
+(5) Module 6; LEsson 3; Activity 7 'Airports_map_solution.ipynb'
