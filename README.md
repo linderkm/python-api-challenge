@@ -1,7 +1,9 @@
 # python-api-challenge
 
+
+This README.md includes sources for both VacationPy.ipynb and WeatherPy.ipynb. The cited number in the code comments corresponds with the numbers listed with the source in this document.
 -----------------------------------------------------------------------
-WeatherPy
+WeatherPy.ipynb
 
 (1) https://openweathermap.org/current#geo
 
@@ -13,7 +15,7 @@ WeatherPy
 
 -----------------------------------------------------------------------
 
-VacationPy
+VacationPy.ipynb
 
 (5) Module 6; LEsson 3; Activity 7 'Airports_map_solution.ipynb'
 
