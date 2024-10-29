@@ -32,3 +32,5 @@ VacationPy
 (12) Module 6; Lesson 3; Activity 2 'Geoapify Places Demo'
 
 (13) https://apidocs.geoapify.com/docs/places/
+
+(14) Module 6; Lesson 3; Activity 9 'banking_deserts_solution.ipynb'
