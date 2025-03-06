@@ -1,5 +1,7 @@
 # python-api-challenge
 
+NOTE: Per assignment instructions, the required API Keys are NOT saved in this public repository. 
+
 
 This README.md includes sources for both VacationPy.ipynb and WeatherPy.ipynb. The cited number in the code comments corresponds with the numbers listed with the source in this document.
 -----------------------------------------------------------------------
